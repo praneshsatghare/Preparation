@@ -1,0 +1,84 @@
+OOPs
+Basic Java
+Java 8 features
+Java Internals
+Java Memory Model
+Java Profiling
+Java VisualVM
+Java JConsole
+Java JStats
+
+Sorting Algorithm
+     Quick Sort
+     Merge Sort
+     Selection Sort
+     Bubble Sort
+     Insertion Sort
+     Radix Sort
+
+Data Structures
+     Arrays
+     ArrayList(initial size and how does it increase)
+     LinkedList
+     Doubly LInkedList
+     Queue(Blocking Queue {Implementation}/ Priority Queue/ PriorityBlocking Queue/LinkedBlockingqueue)
+     Stack
+     Vector
+     Tree
+     BST
+     Binary Tree
+     AVL Tree
+     B Tree
+     B+ Tree
+     Red Black Tree
+     Graph
+     BFS
+     DFS
+     Spanning
+     Heap (Max Heap/ Min Heap)
+     Trie
+     Set
+     Treeset
+     Hashset
+     Map
+     HashMap(internal working)
+     Treemap
+     ConcurrentHashMap
+     Synchronous Hashmap
+Spring
+    Annotations
+    Spring Boot vs Spring MVC
+    Spring Vs Play Framework
+Hibernate/JPA
+    First Level Cache
+    Second Level Cache
+    Hibenate Parameters
+    EhCache
+
+MultiThreading
+    Thread Class
+    Runnable Interface
+    start() vs run()
+    proprity
+    ThreadGroup
+    ForkJoin
+    Synchrinization Blcok or Method
+    write a program which creates deadlock
+    deadock vs livelock
+    Atomic/Volatile/TheadLocal
+    Race Condition
+    How to take Thread dump in java
+    How to analyze Deadloack (using THread dump)
+    CyclicBarriar and CountdownLatch
+    Difference between green thread and native thread in Java
+    What is context switching in multi-threading?
+    What thread-scheduling algorithm is used in Java
+    What is thread-scheduler in Java?
+    What is thread-group, why its advised not to use thread-group in Java?
+    Why is the Executor framework better than creating and managing threads via the application?
+    Difference between Executor and Executors in Java?
+    How to find which thread is taking maximum CPU in windows and Linux server?
+    https://dzone.com/articles/top-15-java-multithreading-concurrency-interview-q
+
+
+
