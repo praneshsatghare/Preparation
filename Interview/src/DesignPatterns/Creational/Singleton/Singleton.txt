@@ -1,0 +1,2 @@
+https://www.vojtechruzicka.com/singleton-pattern-pitfalls/
+https://www.geeksforgeeks.org/singleton-class-java/

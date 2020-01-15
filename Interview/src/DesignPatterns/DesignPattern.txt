@@ -1,0 +1,5 @@
+https://sourcemaking.com/design_patterns
+https://refactoring.guru/design-patterns/creational-patterns
+
+What are Design Patterns?
+Design Patterns are solutions to the commonly occurring problems in software design.
