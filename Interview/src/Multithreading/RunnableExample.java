@@ -14,8 +14,8 @@ public class RunnableExample {
 class WorkerThreadRunnable implements Runnable {
     private String threadName;
 
-    public WorkerThreadRunnable(String thradName){
-        this.threadName = thradName;
+    public WorkerThreadRunnable(String threadName){
+        this.threadName = threadName;
     }
 
     @Override
