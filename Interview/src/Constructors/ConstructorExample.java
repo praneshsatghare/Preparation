@@ -7,9 +7,8 @@ int val2;
 //    2) Default constructor is provided by Default as NoArg construtor but we write Parameterized Constructor
 //       and also want call NoArg COnstructor then Default Construtor wont work you have to write NoArg Constructor Explicitly.
 
-//    if we comment this line
-//    ConstructorExample noArg = new ConstructorExample();
-//    Code with throw Compiletime
+//    if we comment NoArg Constructor
+//    ConstructorExample noArg = new ConstructorExample(); Code with throw Compiletime
     ConstructorExample(){
         this.val1 = 1;
         this.val2 = 2;
