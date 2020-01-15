@@ -1,0 +1,16 @@
+What is Constructor?
+When new Keyword creates an objcet, Costructor just initilizes the state of an Object.
+A Constructor is spacial Method that is used to initilize the Object to some default value at the time of Object creation.
+If no user-defined constructor is provided for a class, class will have Default constructor,
+and compiler initilizes the member variable to deafult values.
+
+1) numeric data types are set to 0
+2) char data types are set to null character(‘\0’)
+3) reference variables are set to null
+
+
+Rules for creating constructor
+1)It has same name as the class.
+2)It should not return value(No Return Type) not even void.
+3)If we are writing Parametrised constructor then to get No-Arg constructor you need to explicitly write it.
+    Note - Only in case if you need access No-Arg constructor you need to write it on else no need to write.
