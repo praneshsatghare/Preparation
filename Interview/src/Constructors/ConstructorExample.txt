@@ -1,5 +1,5 @@
 What is Constructor?
-When new Keyword creates an objcet, Costructor just initilizes the state of an Object.
+When new Keyword creates an objcet, Constructor just initilizes the state of an Object.
 A Constructor is spacial Method that is used to initilize the Object to some default value at the time of Object creation.
 If no user-defined constructor is provided for a class, class will have Default constructor,
 and compiler initilizes the member variable to deafult values.
@@ -10,7 +10,15 @@ and compiler initilizes the member variable to deafult values.
 
 
 Rules for creating constructor
+https://www.codejava.net/java-core/the-java-language/9-rules-about-constructors-in-java
 1)It has same name as the class.
 2)It should not return value(No Return Type) not even void.
-3)If we are writing Parametrised constructor then to get No-Arg constructor you need to explicitly write it.
+3)Declaring constructors is not required.If we write class compiler creates Default NoArg Constructor.
+4)Compiler won't generate the default noArg constructor if there is already constructor present in class
+5)If we are writing Parametrised constructor then to get No-Arg constructor you need to explicitly write it.
     Note - Only in case if you need access No-Arg constructor you need to write it on else no need to write.
+6)Constructor doesn't get inherit from parents to child infact during inheritance constructor chaining happens.
+    i.e. During child Object creation constructor of child class calls constructor of parent class executes
+    whatever there in parent class and then again comes back to child class constructor and proceed.
+7)Default constructor has same Access modifier as that of class
+8)First statement of constructor must be this() or super();
