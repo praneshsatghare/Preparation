@@ -52,7 +52,7 @@ Spring
 Hibernate/JPA
     First Level Cache
     Second Level Cache
-    Hibenate Parameters
+    Hibernate Parameters
     EhCache
 
 MultiThreading
@@ -79,6 +79,16 @@ MultiThreading
     Difference between Executor and Executors in Java?
     How to find which thread is taking maximum CPU in windows and Linux server?
     https://dzone.com/articles/top-15-java-multithreading-concurrency-interview-q
+
+
+Database
+- Mysql - Relational
+- Elasticsearch - Doc Based
+- MongoDB - Doc Based
+- Cassandra - Wide column Based
+- Solr - Doc Based (Full text Search)
+- Neo4j - Graph Based
+- Orientdb - Graph Based
 
 
 

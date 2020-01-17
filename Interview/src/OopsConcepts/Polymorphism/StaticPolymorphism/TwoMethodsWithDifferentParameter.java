@@ -1,6 +1,6 @@
 package OopsConcepts.Polymorphism.StaticPolymorphism;
 
-public class TwoMethodsWithDIfferentParameter {
+public class TwoMethodsWithDifferentParameter {
 
     public void m1(int a){
         System.out.println("I am int");
@@ -28,7 +28,7 @@ public class TwoMethodsWithDIfferentParameter {
         System.out.println("I am Double");
     }
     public static void main(String args []){
-        TwoMethodsWithDIfferentParameter t = new TwoMethodsWithDIfferentParameter();
+        TwoMethodsWithDifferentParameter t = new TwoMethodsWithDifferentParameter();
         int v = 1234567891;
         t.m1(v);
     }

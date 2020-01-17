@@ -1,9 +1,9 @@
 package OopsConcepts.Polymorphism.StaticPolymorphism;
 
-public class MethodOverLoading {
+public class MethodOverloading {
 
     public static void main(String args[]) {
-        MethodOverLoading m = new MethodOverLoading();
+        MethodOverloading m = new MethodOverloading();
         m.method(10);
         m.method(10f);
         m.method(10, 10.00f);
